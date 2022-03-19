@@ -1,0 +1,56 @@
+#menu{
+	text-decoration: none;
+	color: black;
+	text-align: bottom;
+	padding: 2em 2em 4em;
+	margin-top: 1.3em;
+	width:100%;
+	height:40px;
+	background-color: viole
+}
+
+#menu a{
+	
+	background-color: grey;
+	color:white;
+	font-family:helvetica, sans-serif;
+	font-size:18px;
+	text-decoration:none; 
+	font-weight:800; 
+
+	padding-left:30px;
+	padding-right:30px;
+
+}
+#menu a:hover{
+	color: black;
+}
+br{
+	color: black;
+	font-size: 16px;
+}
+
+td{
+	color: black;
+	font-weight:800;
+	font-size:34;
+	font-family:  sans-serif;
+	text-align: center;
+	font-style: italic;
+}
+p{
+	font-style: oblique;
+	font-family:helvetica, sans-serif;
+
+}
+.gallery img {
+	width: 60%;
+	height:60%;
+}
+p{
+	font-size: 35;
+	font-style: italic;
+	font-family: cursive;
+	text-align: center;
+	color: black;
+}
